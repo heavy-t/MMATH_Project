@@ -1,0 +1,4 @@
+Fix the plotting code for both Euro and Amer
+
+How can I get volatility? Maybe use an example from the notes?
+
